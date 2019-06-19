@@ -7,6 +7,6 @@ class HelloWorld
         System.out.println("Hello, World ");
         System.out.println("Hello, World After GitHub Commit");
         System.out.println("Hello, World After GitHub Commit #1");
-        System.out.println("Hello, World After GitHub Commit #2");
+        System.out.println("Hello, World After GitHub Commit #2 ");
     } 
 }
