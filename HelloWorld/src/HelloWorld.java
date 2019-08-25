@@ -11,7 +11,7 @@ public class HelloWorld {
                 System.out.println("Hello World, After GitHub Commit #5");
                 System.out.println("Hello World, After GitHub Commit #6");
                 System.out.println("Hello World, After GitHub Commit #7");
-                System.out.println("Hello World, After GitHub Commit# 9");
+                System.out.println("Hello World, After GitHub Commit#9");
 	}
 
 }
